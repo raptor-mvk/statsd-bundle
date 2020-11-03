@@ -1,6 +1,6 @@
 {
-    "name": "raptor-mvk/statsd-bundle"
-    "description": "Provides configured StatsdAPIClient"
+    "name": "raptor-mvk/statsd-bundle",
+    "description": "Provides configured StatsdAPIClient",
     "type": "symfony-bundle",
     "license": "MIT",
     "require": {
